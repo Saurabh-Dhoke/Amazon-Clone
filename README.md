@@ -1,5 +1,8 @@
 # 🛒 Amazon Clone Website
-      This is a responsive clone of Amazon's homepage, built using only HTML and CSS. This project was created for learning purposes to practice front-end development and to understand website layout structuring like a real-world e-commerce site.
+          This is a responsive clone of Amazon's homepage, built using 
+      only HTML and CSS. This project was created for learning purposes 
+      to practice front-end development and to understand website
+      layout structuring like a real-world e-commerce site.
 
 # 🔧 Technologies Used
     HTML5
